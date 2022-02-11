@@ -1,0 +1,11 @@
+-- This is a list box you can put scripts in here
+
+-- in order to do so follow these steps
+
+1. Copy the script to your clipboard
+
+2. Open notepad by searching it
+
+3. Paste script into notepad
+
+4. Save notepad into "Scripts" Folder in Loomnis X
